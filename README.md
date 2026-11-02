@@ -1,8 +1,6 @@
 #  CardSkin — Apple Wallet Customizer for Uzbekistan
 
-<p align="center">
-  <img src="https://cardskin.app/og-image.png" alt="CardSkin Preview" width="680" style="border-radius: 20px; box-shadow: 0 20px 50px rgba(0,0,0,0.5);">
-</p>
+
 
 <p align="center">
   <b>Установите любой кастомный дизайн на вашу банковскую карту в Apple Wallet (iPhone)</b><br>
