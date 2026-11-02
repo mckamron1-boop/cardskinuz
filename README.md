@@ -20,11 +20,12 @@
 
 ## ⚡ Быстрый старт (Скачать)
 
-| Платформа | Файл загрузки | Системные требования |
-| :--- | :--- | :--- |
-| **Windows** | [📥 **Скачать CardSkin-Windows.exe**](https://github.com/mckam/cardskin-release/releases/latest/download/CardSkin-Windows.exe) | Windows 10/11 (64-bit), установленный iTunes |
-| **macOS** | [🍏 **Скачать CardSkin-macOS.dmg**](https://github.com/mckam/cardskin-release/releases/latest/download/CardSkin-macOS.dmg) | macOS Monterey, Ventura, Sonoma, Sequoia (M1/M2/M3/Intel) |
+| Платформа | Файл загрузки | Альтернативный архив | Системные требования |
+| :--- | :--- | :--- | :--- |
+| **Windows** | [📥 **Скачать CardSkin-Windows.exe**](https://github.com/mckamron1-boop/cardskinuz/releases/download/v1.0.0/CardSkin-Windows.exe) | [📦 CardSkin-Windows.zip](https://github.com/mckamron1-boop/cardskinuz/releases/download/v1.0.0/CardSkin-Windows.zip) | Windows 10/11 (64-bit), установленный iTunes |
+| **macOS** | [🍏 **Скачать CardSkin-macOS.dmg**](https://github.com/mckamron1-boop/cardskinuz/releases/download/v1.0.0/CardSkin-macOS.dmg) | [📦 CardSkin-macOS.zip](https://github.com/mckamron1-boop/cardskinuz/releases/download/v1.0.0/CardSkin-macOS.zip) | macOS Monterey, Ventura, Sonoma, Sequoia (M1/M2/M3/Intel) |
 
+> 🚀 **Официальная страница релиза:** [GitHub Releases v1.0.0](https://github.com/mckamron1-boop/cardskinuz/releases/tag/v1.0.0)  
 > 🌐 **Каталог готовых скинов (700+ карт):** [https://cardskin.app/gallery](https://cardskin.app/gallery)  
 > Скачивайте бесплатные дизайны в разрешении 1536×969 PNG для банков Kapitalbank, Ipak Yo'li, Anorbank, TBC, NBU, Hamkorbank и мировых премиум-карт.
 
